@@ -1,0 +1,21 @@
+{
+  "name": "socket-poker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.3.5",
+    "@nuxtjs/svg": "^0.2.0",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "nuxt-supabase": "^2.0.0",
+    "pokersolver": "^2.1.4",
+    "realtime": "supabase/realtime"
+  },
+  "devDependencies": {}
+}
